@@ -13,7 +13,6 @@ const certificates = [
   { id: 3, title: "Implicit Biases (Infosys)", img: "/images/certificates/implicit.jpg" },
   { id: 4, title: "Consulting Financial Advisory (Deloitte)", img: "/images/certificates/delloite.jpg" },
   { id: 5, title: "Cybersecurity Essentials (Cisco)", img: "/images/certificates/cybersecurity.jpg" },
-  { id: 6, title: "Programming Essentials in Python (Cisco, PCAP)", img: "/images/certificates/pcap.jpg" },
   { id: 7, title: "Blockchain and Crypto (Udemy)", img: "/images/certificates/udemy.jpg" },
   { id: 8, title: "Java (certificate of achievement)", img: "/images/certificates/java.jpeg"},
 ];
