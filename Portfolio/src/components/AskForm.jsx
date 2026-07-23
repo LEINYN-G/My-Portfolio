@@ -10,7 +10,7 @@ const AskForm = () => {
           relative p-9 rounded-2xl overflow-visible
           bg-black/90 backdrop-blur-md
           shadow-xl
-          space-y-5
+          space-y-4
           animate-glow-float
         "
       >
@@ -36,7 +36,7 @@ const AskForm = () => {
             animate-gradient-purple-text
           "
         >
-          💬 Need a Portfolio or Stuck in Tech? Let's Talk.
+          💬 Need a Portfolio or Stuck in Tech? Let's Sort.
         </h2>
 
         {/* Name */}
